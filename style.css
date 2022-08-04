@@ -9,6 +9,10 @@ body{
     height: 100vh;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+h3{
+    text-align: center;
+    font-size: 1.4rem;
+}
 
 .heading{
     text-align: center;
@@ -18,12 +22,12 @@ body{
 }
 
 .rules{
-    margin: 5%;
+    margin: 20px;
     display: flex;
     flex-direction: column;
     line-height: 1.5;
     align-items: center;
-    margin-bottom: 0;
+    /* margin-bottom: 0; */
 }
 
 .playground{
