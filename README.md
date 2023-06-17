@@ -1,5 +1,5 @@
 # Dice-game
-A simple game developed using js.
+A simple game developed using JavaScript.
 
 This is a Two player game in which user will get 3 turn to roll a dice and a score-board will be continously updated. At the end the winner player will be displayed and game will be reset.
 
